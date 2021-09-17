@@ -16,18 +16,10 @@ All of the bounties below are subject to review by the Croncat DAO. To claim a b
 ## Contract Bounties
 
 * Security Issue: `TBDⓃ`
-* Feature / Fix: `15Ⓝ`
-* Patch: `5Ⓝ`
 
 Note: For security related bugs: [Read the security policy](./security.md)
 
-## Docs Bounties
+## Growth Hacking, Marketing & Promotion Bounties
 
-*  Example + Contract Page: `25Ⓝ`
-*  Guide Page: `15Ⓝ`
-
-## Marketing & Promotion Bounties
-
-* Video Tutorial: `50Ⓝ`
-* Blog Post: `25Ⓝ`
-* Social Post: `1Ⓝ`
+Croncat DAO now utilizes our Commanders, a special team of growth hackers paid by the DAO for content creation.
+If you're interested in joining: https://docs.cron.cat/docs/join-croncat/
